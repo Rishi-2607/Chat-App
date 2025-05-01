@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "daisyui": "^5.0.35"
+    "daisyui": "^5.0.35",
+    "vite": "^5.4.19"
   }
 }
